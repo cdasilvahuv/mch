@@ -338,6 +338,10 @@ class MHCMediatorAPI:
 # =============================================================================
 # ORQUESTADOR PRINCIPAL (K8s Job o Deployment EntryPoint)
 # =============================================================================
+class DataLoader:
+    pass
+
+
 def main(mode: str = "run"):
     """
     Orquestación principal: Simula pipeline completo ODH+MHC.

@@ -6,14 +6,10 @@ Versión Doctoral 1.0 - Adaptada para Middleware Heterogéneo con Patrones Moder
 
 Autor: César Alfonso José da Silva Hernández (Doctorando DIIA, UV)
 Fecha: 14 de diciembre de 2025
-Perfil Equivalente: Desarrollador Senior Python/MongoDB/PostgreSQL, Ciencia de Datos/ML,
-Arquitectura Microservicios/DevOps/DevSecOps, Metaheurísticas Doctoral, Economista PhD
-Finanzas/Econometría (aplicado RF+PSO a problemas socioeconómicos educativos).
 
 Objetivo del Artefacto:
 El MHC actúa como Operational Data Hub (ODH) híbrido para integración de sistemas heterogéneos
-(e.g., ERP legado SAP R/3 financiero + CRM moderno Salesforce educativo/Mineduc). Cumple
-patrones solicitados:
+Cumple con los siguientes patrones:
 - Arquitectura Orientada a Eventos (EDA) con CDC simulado (ingesta real-time).
 - Desacoplamiento via Schema Registry (modelo canónico Avro simulado con JSON schema).
 - Microservicios de Mediación (modular: ingesta, transformación, ML, optimización, APIs).
